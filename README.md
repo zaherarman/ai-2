@@ -1,2 +1,2 @@
-# ai-2
+# ai^2
 Reinforcement learning tournament.
